@@ -1,5 +1,4 @@
 # hello-world
 
-xi
-
-ai laik kirill
+vsem privet
+люблю котиков
