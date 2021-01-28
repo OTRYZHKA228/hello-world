@@ -2,4 +2,4 @@
 
 vsem privet
 
-люблю котиков
+In the editor, write a bit about yourself.
